@@ -1,1 +1,2 @@
 ikinci bir txt daha
+feat branchinden bir commit geliyor
